@@ -7,6 +7,7 @@ import Contact from "./pages/Contact";
 import Footer from "./shared/Footer";
 import ScrollToHash from "./shared/ScrollToHash";
 import AOS from "aos";
+import { useEffect } from "react";
 import "aos/dist/aos.css";
 
 function App() {
