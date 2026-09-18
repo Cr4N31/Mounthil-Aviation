@@ -67,7 +67,7 @@ function Hero() {
             Private aviation across Nigeria
           </span>
 
-          <h1 className="mb-6 text-4xl font-semibold leading-tight text-slate-950 md:text-6xl">
+          <h1 className="mb-6 text-4xl uppercase font-semibold leading-tight text-slate-950 md:text-6xl">
             Private jet charter, medevac and aircraft support made effortless.
           </h1>
 
